@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Hashir 👋
 
-<!--
-**Hashir-gikian/Hashir-gikian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineering student passionate about building innovative solutions. I'm currently working on exciting projects, including web apps, mobile apps, and exploring cloud technologies.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **React, Node.js, and cloud computing**.
+- 👨‍💻 Check out my [Projects](https://github.com/Hashir-gikian?tab=repositories).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+1. **Web Application Development**
+   - React, Node.js, and more!
+   
+2. **Mobile App Development**
+   - Creating cross-platform apps.
+
+3. **Cloud Computing**
+   - Exploring AWS and Azure.
+
+Feel free to connect or collaborate!
